@@ -1,7 +1,7 @@
 // TYPING EFFECT
 
 let i = 0;
-const str = 'Let us show you how we unleash knowledge unlimited power';
+const str = 'A better way to build software';
 const speed = 100;
 
 function Typing() {
